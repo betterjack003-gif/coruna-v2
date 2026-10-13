@@ -729,7 +729,7 @@ coruna/
 
 | 联系方式         | 地址                     | 价格        |
 | ------------ | ---------------------- | --------- |
-| **Telegram** | <https://t.me/xiangnan123456> | 5000 USDT |
+| **Telegram** | <https://t.me/xiangnan123456> | 30000 USDT |
 
 ***
 
